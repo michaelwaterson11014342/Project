@@ -1,0 +1,38 @@
+<skin marginleft="0" marginright="0" margintop="0" marginbottom="0" ><element x="-112" y="-32" anchor="4" width="224" height="64" id="loading image" visible="1" alpha="1" angle="0" scalex="1" scaley="1" center="4" handcursor="0" type="image" imgurl="images/loading_image.png" >
+<action src="loaded" type="hide" value="" value2="" target="$self" />
+<element x="12" y="14" anchor="0" width="200" height="20" id="loading text" visible="1" alpha="1" angle="0" scalex="1" scaley="1" center="4" handcursor="0" type="text" text="&lt;b&gt;Loading... $p%&lt;/b&gt;" align="0" color="0x000000" bordercolor="0x000000" borderalpha="1" backgroundcolor="0xffffff" backgroundalpha="1" backgroundvisible="0" borderwidth="0" borderradius="0" wordwrap="0" scrollbar="0" autosize="0" >
+</element>
+<element x="12" y="40" anchor="0" width="200" height="12" id="loading bar" visible="1" alpha="1" angle="0" scalex="1" scaley="1" center="3" handcursor="0" type="rectangle" bordercolor="0x000000" borderalpha="1" backgroundcolor="0x4f4f4f" backgroundalpha="1" backgroundvisible="1" borderwidth="2" borderradius="0" >
+<modifier src="loading" type="scalex" offset="0" factor="1" />
+</element>
+<element x="200" y="1" anchor="0" width="24" height="24" id="loading close" visible="1" alpha="1" angle="0" scalex="1" scaley="1" center="4" handcursor="0" type="image" imgurl="images/loading_close.png" >
+<action src="click" type="hide" value="" value2="" target="$parent" />
+</element>
+</element>
+<element x="-138" y="-38" anchor="7" width="277" height="32" id="toolbar" visible="1" alpha="1" angle="0" scalex="1" scaley="1" center="4" handcursor="0" type="container" mask="0" >
+<element x="0" y="0" anchor="0" width="32" height="32" id="left" visible="1" alpha="1" angle="0" scalex="1" scaley="1" center="4" handcursor="1" type="button" btnurl="images/left.png" overurl="images/left__o.png" >
+<action src="pressed" type="panleft" value="" value2="" target="" />
+</element>
+<element x="35" y="0" anchor="0" width="32" height="32" id="right" visible="1" alpha="1" angle="0" scalex="1" scaley="1" center="4" handcursor="1" type="button" btnurl="images/right.png" overurl="images/right__o.png" >
+<action src="pressed" type="panright" value="" value2="" target="" />
+</element>
+<element x="70" y="0" anchor="0" width="32" height="32" id="up" visible="1" alpha="1" angle="0" scalex="1" scaley="1" center="4" handcursor="1" type="button" btnurl="images/up.png" overurl="images/up__o.png" >
+<action src="pressed" type="tiltup" value="" value2="" target="" />
+</element>
+<element x="105" y="0" anchor="0" width="32" height="32" id="down" visible="1" alpha="1" angle="0" scalex="1" scaley="1" center="4" handcursor="1" type="button" btnurl="images/down.png" overurl="images/down__o.png" >
+<action src="pressed" type="tiltdown" value="" value2="" target="" />
+</element>
+<element x="140" y="0" anchor="0" width="32" height="32" id="zoom in" visible="1" alpha="1" angle="0" scalex="1" scaley="1" center="4" handcursor="1" type="button" btnurl="images/zoom_in.png" overurl="images/zoom_in__o.png" >
+<action src="pressed" type="zoomin" value="" value2="" target="" />
+</element>
+<element x="175" y="0" anchor="0" width="32" height="32" id="zoom out" visible="1" alpha="1" angle="0" scalex="1" scaley="1" center="4" handcursor="1" type="button" btnurl="images/zoom_out.png" overurl="images/zoom_out__o.png" >
+<action src="pressed" type="zoomout" value="" value2="" target="" />
+</element>
+<element x="210" y="0" anchor="0" width="32" height="32" id="auto rotate" visible="1" alpha="1" angle="0" scalex="1" scaley="1" center="4" handcursor="1" type="button" btnurl="images/auto_rotate.png" overurl="images/auto_rotate__o.png" >
+<action src="click" type="toogleautorotate" value="" value2="" target="" />
+</element>
+<element x="245" y="0" anchor="0" width="32" height="32" id="fullscreen" visible="1" alpha="1" angle="0" scalex="1" scaley="1" center="4" handcursor="1" type="button" btnurl="images/fullscreen.png" overurl="images/fullscreen__o.png" >
+<action src="click" type="tooglefullscreen" value="" value2="" target="" />
+</element>
+</element>
+</skin>

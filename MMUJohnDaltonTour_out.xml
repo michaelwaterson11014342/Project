@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1">
+  <panorama id="node1">
+    <view fovmode="0" pannorth="335">
+      <start pan="224" fov="120" tilt="-6"/>
+      <min pan="0" fov="80" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="John Dalton Entrance Upstairs" datetime="2015:01:09 14:42:54" description="" copyright="" tags="" author="Michael Waterson" source="" comment="" info="" longitude="-2.2404438257217407" latitude="53.471611081421095"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="" target="" pan="-93.1848" skinid="" url="{node2}" id="John Dalton Entrance Upstairs" tilt="1.70426"/>
+      <hotspot title="" target="" pan="-165.111" skinid="" url="{node6}" id="Entrance Downstairs" tilt="-13.0024"/>
+      <hotspot title="" target="" pan="-173.457" skinid="" url="{node7}" id="Elevator to 2nd floor" tilt="-13.2751"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/01_ entranceupstairs_o_0.jpg" prev5url="images/01_ entranceupstairs_o_preview_5.jpg" prev4url="images/01_ entranceupstairs_o_preview_4.jpg" prev3url="images/01_ entranceupstairs_o_preview_3.jpg" prev2url="images/01_ entranceupstairs_o_preview_2.jpg" prev1url="images/01_ entranceupstairs_o_preview_1.jpg" prev0url="images/01_ entranceupstairs_o_preview_0.jpg" tile5url="images/01_ entranceupstairs_o_5.jpg" tilesize="512" tile4url="images/01_ entranceupstairs_o_4.jpg" tile3url="images/01_ entranceupstairs_o_3.jpg" tilescale="1.01953125" tile2url="images/01_ entranceupstairs_o_2.jpg" tile1url="images/01_ entranceupstairs_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node2">
+    <view fovmode="0" pannorth="315">
+      <start pan="295" fov="120" tilt="-4.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="John Dalton East Upstairs" datetime="2015:01:09 14:27:53" description="" copyright="" tags="" author="Michael Waterson" source="" comment="" info="" longitude="-2.2392475605010986" latitude="53.471987855437355"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="" target="" pan="-4.25239" skinid="" url="{node1}" id="To Entrance Upstairs" tilt="-1.52024"/>
+      <hotspot title="" target="" pan="92.53789999999999" skinid="" url="{node4}" id="To lecture rooms" tilt="2.00746"/>
+      <hotspot title="" target="" pan="-153.2" skinid="" url="{node3}" id="JD east downstairs" tilt="-16.5602"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/02_ jd_east_up_o_0.jpg" prev5url="images/02_ jd_east_up_o_preview_5.jpg" prev4url="images/02_ jd_east_up_o_preview_4.jpg" prev3url="images/02_ jd_east_up_o_preview_3.jpg" prev2url="images/02_ jd_east_up_o_preview_2.jpg" prev1url="images/02_ jd_east_up_o_preview_1.jpg" prev0url="images/02_ jd_east_up_o_preview_0.jpg" tile5url="images/02_ jd_east_up_o_5.jpg" tilesize="512" tile4url="images/02_ jd_east_up_o_4.jpg" tile3url="images/02_ jd_east_up_o_3.jpg" tilescale="1.01953125" tile2url="images/02_ jd_east_up_o_2.jpg" tile1url="images/02_ jd_east_up_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node3">
+    <view fovmode="0" pannorth="270">
+      <start pan="165.5" fov="70" tilt="1"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="John Dalton East Downstairs" datetime="2015:01:09 14:51:43" description="" copyright="" tags="" author="Michael Waterson" source="" comment="" info="" longitude="-2.2391724586486816" latitude="53.47206448703132"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="" target="" pan="162.302" skinid="" url="{node2}" id="To JD east Upstairs" tilt="32.2624"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/03_ jd_east_down_o_0.jpg" prev5url="images/03_ jd_east_down_o_preview_5.jpg" prev4url="images/03_ jd_east_down_o_preview_4.jpg" prev3url="images/03_ jd_east_down_o_preview_3.jpg" prev2url="images/03_ jd_east_down_o_preview_2.jpg" prev1url="images/03_ jd_east_down_o_preview_1.jpg" prev0url="images/03_ jd_east_down_o_preview_0.jpg" tile5url="images/03_ jd_east_down_o_5.jpg" tilesize="512" tile4url="images/03_ jd_east_down_o_4.jpg" tile3url="images/03_ jd_east_down_o_3.jpg" tilescale="1.01953125" tile2url="images/03_ jd_east_down_o_2.jpg" tile1url="images/03_ jd_east_down_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node4">
+    <view fovmode="0" pannorth="247">
+      <start pan="125.5" fov="114" tilt="2"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Lecture Room Hall Way" datetime="2015:01:09 14:33:04" description="" copyright="" tags="" author="Michael Waterson" source="" comment="" info="" longitude="-2.2390490770339966" latitude="53.47189525874338"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="" target="" pan="177.487" skinid="" url="{node5}" id="To lecture room" tilt="14.2751"/>
+      <hotspot title="" target="" pan="77.6224" skinid="" url="{node2}" id="To JD east upstairs" tilt="4.30599"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/04_ hall_lecture_room_o_0.jpg" prev5url="images/04_ hall_lecture_room_o_preview_5.jpg" prev4url="images/04_ hall_lecture_room_o_preview_4.jpg" prev3url="images/04_ hall_lecture_room_o_preview_3.jpg" prev2url="images/04_ hall_lecture_room_o_preview_2.jpg" prev1url="images/04_ hall_lecture_room_o_preview_1.jpg" prev0url="images/04_ hall_lecture_room_o_preview_0.jpg" tile5url="images/04_ hall_lecture_room_o_5.jpg" tilesize="512" tile4url="images/04_ hall_lecture_room_o_4.jpg" tile3url="images/04_ hall_lecture_room_o_3.jpg" tilescale="1.01953125" tile2url="images/04_ hall_lecture_room_o_2.jpg" tile1url="images/04_ hall_lecture_room_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node5">
+    <view fovmode="0" pannorth="247">
+      <start pan="11.5" fov="93" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Lecture Room" datetime="2015:01:09 14:31:17" description="" copyright="" tags="" author="Michael Waterson" source="" comment="" info="" longitude="-2.239108085632324" latitude="53.47186652179725"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="" target="" pan="43.9828" skinid="" url="{node4}" id="To hallway" tilt="0.044636"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/05_ lecture_room_o_0.jpg" prev5url="images/05_ lecture_room_o_preview_5.jpg" prev4url="images/05_ lecture_room_o_preview_4.jpg" prev3url="images/05_ lecture_room_o_preview_3.jpg" prev2url="images/05_ lecture_room_o_preview_2.jpg" prev1url="images/05_ lecture_room_o_preview_1.jpg" prev0url="images/05_ lecture_room_o_preview_0.jpg" tile5url="images/05_ lecture_room_o_5.jpg" tilesize="512" tile4url="images/05_ lecture_room_o_4.jpg" tile3url="images/05_ lecture_room_o_3.jpg" tilescale="1.01953125" tile2url="images/05_ lecture_room_o_2.jpg" tile1url="images/05_ lecture_room_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node6">
+    <view fovmode="0" pannorth="20">
+      <start pan="295.5" fov="106" tilt="3.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Entrance Downstairs" datetime="2015:01:09 14:46:30" description="" copyright="" tags="" author="Michael Waterson" source="" comment="" info="" longitude="-2.2403043508529663" latitude="53.47160788840663"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="" target="" pan="-96.6828" skinid="" url="{node7}" id="Elevator to 2nd floor" tilt="16.8815"/>
+      <hotspot title="" target="" pan="-34.1278" skinid="" url="{node11}" id="Hall to lecture theatre" tilt="7.05094"/>
+      <hotspot title="" target="" pan="146.533" skinid="" url="{node1}" id="Entrance upstairs" tilt="21.7788"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/06_ entrancedownstairs_o_0.jpg" prev5url="images/06_ entrancedownstairs_o_preview_5.jpg" prev4url="images/06_ entrancedownstairs_o_preview_4.jpg" prev3url="images/06_ entrancedownstairs_o_preview_3.jpg" prev2url="images/06_ entrancedownstairs_o_preview_2.jpg" prev1url="images/06_ entrancedownstairs_o_preview_1.jpg" prev0url="images/06_ entrancedownstairs_o_preview_0.jpg" tile5url="images/06_ entrancedownstairs_o_5.jpg" tilesize="512" tile4url="images/06_ entrancedownstairs_o_4.jpg" tile3url="images/06_ entrancedownstairs_o_3.jpg" tilescale="1.01953125" tile2url="images/06_ entrancedownstairs_o_2.jpg" tile1url="images/06_ entrancedownstairs_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node7">
+    <view fovmode="0" pannorth="0">
+      <start pan="3.5" fov="74" tilt="2.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="John Dalton 2nd Floor" datetime="2015:01:09 14:42:54" description="" copyright="" tags="" author="Michael Waterson" source="" comment="" info="" longitude="-2.240116596221924" latitude="53.47160150237706"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="" target="" pan="1.60359" skinid="" url="{node8}" id="To computer rooms" tilt="3.63406"/>
+      <hotspot title="" target="" pan="125.612" skinid="" url="{node6}" id="Elevator to ground floor" tilt="17.4421"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/07_ jdc2 hall1_o_0.jpg" prev5url="images/07_ jdc2 hall1_o_preview_5.jpg" prev4url="images/07_ jdc2 hall1_o_preview_4.jpg" prev3url="images/07_ jdc2 hall1_o_preview_3.jpg" prev2url="images/07_ jdc2 hall1_o_preview_2.jpg" prev1url="images/07_ jdc2 hall1_o_preview_1.jpg" prev0url="images/07_ jdc2 hall1_o_preview_0.jpg" tile5url="images/07_ jdc2 hall1_o_5.jpg" tilesize="512" tile4url="images/07_ jdc2 hall1_o_4.jpg" tile3url="images/07_ jdc2 hall1_o_3.jpg" tilescale="1.01953125" tile2url="images/07_ jdc2 hall1_o_2.jpg" tile1url="images/07_ jdc2 hall1_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node8">
+    <view fovmode="0" pannorth="0">
+      <start pan="30" fov="120" tilt="7"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="John Dalton Computer Rooms Hall Way" datetime="2015:01:09 14:42:54" description="" copyright="" tags="" author="Michael Waterson" source="" comment="" info="" longitude="-2.23996102809906" latitude="53.47164301155217"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="" target="" pan="12.8183" skinid="" url="{node10}" id="To Mac Room" tilt="6.21422"/>
+      <hotspot title="" target="" pan="154.267" skinid="" url="{node9}" id="To PC room" tilt="12.3181"/>
+      <hotspot title="" target="" pan="173.738" skinid="" url="{node7}" id="To Elevator" tilt="6.95345"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/08_ jdc2 hall2_o_0.jpg" prev5url="images/08_ jdc2 hall2_o_preview_5.jpg" prev4url="images/08_ jdc2 hall2_o_preview_4.jpg" prev3url="images/08_ jdc2 hall2_o_preview_3.jpg" prev2url="images/08_ jdc2 hall2_o_preview_2.jpg" prev1url="images/08_ jdc2 hall2_o_preview_1.jpg" prev0url="images/08_ jdc2 hall2_o_preview_0.jpg" tile5url="images/08_ jdc2 hall2_o_5.jpg" tilesize="512" tile4url="images/08_ jdc2 hall2_o_4.jpg" tile3url="images/08_ jdc2 hall2_o_3.jpg" tilescale="1.01953125" tile2url="images/08_ jdc2 hall2_o_2.jpg" tile1url="images/08_ jdc2 hall2_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node9">
+    <view fovmode="0" pannorth="315">
+      <start pan="153" fov="120" tilt="-9"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="JD PC room" datetime="2015:01:09 14:10:49" description="" copyright="" tags="" author="Michael Waterson" source="" comment="" info="" longitude="-2.2400307655334473" latitude="53.47171645076256"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="" target="" pan="-161.66" skinid="" url="{node8}" id="To hallway" tilt="2.11551"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/09_ jdc2_04_o_0.jpg" prev5url="images/09_ jdc2_04_o_preview_5.jpg" prev4url="images/09_ jdc2_04_o_preview_4.jpg" prev3url="images/09_ jdc2_04_o_preview_3.jpg" prev2url="images/09_ jdc2_04_o_preview_2.jpg" prev1url="images/09_ jdc2_04_o_preview_1.jpg" prev0url="images/09_ jdc2_04_o_preview_0.jpg" tile5url="images/09_ jdc2_04_o_5.jpg" tilesize="512" tile4url="images/09_ jdc2_04_o_4.jpg" tile3url="images/09_ jdc2_04_o_3.jpg" tilescale="1.01953125" tile2url="images/09_ jdc2_04_o_2.jpg" tile1url="images/09_ jdc2_04_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node10">
+    <view fovmode="0" pannorth="0">
+      <start pan="161.5" fov="120" tilt="-5.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="JD MAC room" datetime="2015:01:09 14:14:21" description="" copyright="" tags="" author="Michael Waterson" source="" comment="" info="" longitude="-2.23996102809906" latitude="53.471748380814375"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="" target="" pan="-156.265" skinid="" url="{node8}" id="To hallway" tilt="-0.215664"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/10_ jdc2_05_o_0.jpg" prev5url="images/10_ jdc2_05_o_preview_5.jpg" prev4url="images/10_ jdc2_05_o_preview_4.jpg" prev3url="images/10_ jdc2_05_o_preview_3.jpg" prev2url="images/10_ jdc2_05_o_preview_2.jpg" prev1url="images/10_ jdc2_05_o_preview_1.jpg" prev0url="images/10_ jdc2_05_o_preview_0.jpg" tile5url="images/10_ jdc2_05_o_5.jpg" tilesize="512" tile4url="images/10_ jdc2_05_o_4.jpg" tile3url="images/10_ jdc2_05_o_3.jpg" tilescale="1.01953125" tile2url="images/10_ jdc2_05_o_2.jpg" tile1url="images/10_ jdc2_05_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node11">
+    <view fovmode="0" pannorth="0">
+      <start pan="47" fov="120" tilt="-1.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Lecture Theatre Hall Way" datetime="2015:01:09 14:42:54" description="" copyright="" tags="" author="Michael Waterson" source="" comment="" info="" longitude="-2.2397786378860474" latitude="53.47170048572763"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="" target="" pan="78.8982" skinid="" url="{node6}" id="To Entrance" tilt="0.942199"/>
+      <hotspot title="" target="" pan="6.04032" skinid="" url="{node12}" id="To Lecture Theatre" tilt="22.839"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/11_ jdc_lectureTheatreHall_o_0.jpg" prev5url="images/11_ jdc_lectureTheatreHall_o_preview_5.jpg" prev4url="images/11_ jdc_lectureTheatreHall_o_preview_4.jpg" prev3url="images/11_ jdc_lectureTheatreHall_o_preview_3.jpg" prev2url="images/11_ jdc_lectureTheatreHall_o_preview_2.jpg" prev1url="images/11_ jdc_lectureTheatreHall_o_preview_1.jpg" prev0url="images/11_ jdc_lectureTheatreHall_o_preview_0.jpg" tile5url="images/11_ jdc_lectureTheatreHall_o_5.jpg" tilesize="512" tile4url="images/11_ jdc_lectureTheatreHall_o_4.jpg" tile3url="images/11_ jdc_lectureTheatreHall_o_3.jpg" tilescale="1.01953125" tile2url="images/11_ jdc_lectureTheatreHall_o_2.jpg" tile1url="images/11_ jdc_lectureTheatreHall_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node12">
+    <view fovmode="0" pannorth="281">
+      <start pan="49" fov="120" tilt="8"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Lecture Theatre" datetime="2015:01:09 14:35:55" description="" copyright="" tags="" author="Michael Waterson" source="" comment="" info="" longitude="-2.2397947311401367" latitude="53.471767538833944"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="" target="" pan="118.639" skinid="" url="{node11}" id="To Hallway" tilt="8.672840000000001"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/12_ lecture_theatre_o_0.jpg" prev5url="images/12_ lecture_theatre_o_preview_5.jpg" prev4url="images/12_ lecture_theatre_o_preview_4.jpg" prev3url="images/12_ lecture_theatre_o_preview_3.jpg" prev2url="images/12_ lecture_theatre_o_preview_2.jpg" prev1url="images/12_ lecture_theatre_o_preview_1.jpg" prev0url="images/12_ lecture_theatre_o_preview_0.jpg" tile5url="images/12_ lecture_theatre_o_5.jpg" tilesize="512" tile4url="images/12_ lecture_theatre_o_4.jpg" tile3url="images/12_ lecture_theatre_o_3.jpg" tilescale="1.01953125" tile2url="images/12_ lecture_theatre_o_2.jpg" tile1url="images/12_ lecture_theatre_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+</tour>
