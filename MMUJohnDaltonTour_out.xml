@@ -10,9 +10,9 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="" target="" pan="-93.1848" skinid="" url="{node2}" id="John Dalton Entrance Upstairs" tilt="1.70426"/>
-      <hotspot title="" target="" pan="-165.111" skinid="" url="{node6}" id="Entrance Downstairs" tilt="-13.0024"/>
-      <hotspot title="" target="" pan="-173.457" skinid="" url="{node7}" id="Elevator to 2nd floor" tilt="-13.2751"/>
+      <hotspot title="John Dalton East Upstairs" target="" pan="-92.1972" skinid="John Dalton East Upstairs" url="{node2}" id="John Dalton East Upstairs" tilt="1.49835"/>
+      <hotspot title="Entrance Downstairs" target="" pan="-165.111" skinid="Entrance Downstairs" url="{node6}" id="Entrance Downstairs" tilt="-13.0024"/>
+      <hotspot title="Elevator to 2nd floor" target="" pan="-173.457" skinid="Elevator to 2nd floor" url="{node7}" id="Elevator to 2nd floor" tilt="-13.2751"/>
     </hotspots>
     <media/>
     <input tile0url="images/01_ entranceupstairs_o_0.jpg" prev5url="images/01_ entranceupstairs_o_preview_5.jpg" prev4url="images/01_ entranceupstairs_o_preview_4.jpg" prev3url="images/01_ entranceupstairs_o_preview_3.jpg" prev2url="images/01_ entranceupstairs_o_preview_2.jpg" prev1url="images/01_ entranceupstairs_o_preview_1.jpg" prev0url="images/01_ entranceupstairs_o_preview_0.jpg" tile5url="images/01_ entranceupstairs_o_5.jpg" tilesize="512" tile4url="images/01_ entranceupstairs_o_4.jpg" tile3url="images/01_ entranceupstairs_o_3.jpg" tilescale="1.01953125" tile2url="images/01_ entranceupstairs_o_2.jpg" tile1url="images/01_ entranceupstairs_o_1.jpg">
@@ -30,9 +30,9 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="" target="" pan="-4.25239" skinid="" url="{node1}" id="To Entrance Upstairs" tilt="-1.52024"/>
-      <hotspot title="" target="" pan="92.53789999999999" skinid="" url="{node4}" id="To lecture rooms" tilt="2.00746"/>
-      <hotspot title="" target="" pan="-153.2" skinid="" url="{node3}" id="JD east downstairs" tilt="-16.5602"/>
+      <hotspot title="To Entrance Upstairs" target="" pan="-4.25239" skinid="To Entrance Upstairs" url="{node1}" id="To Entrance Upstairs" tilt="-1.52024"/>
+      <hotspot title="To lecture rooms" target="" pan="92.53789999999999" skinid="To lecture rooms" url="{node4}" id="To lecture rooms" tilt="2.00746"/>
+      <hotspot title="JD east downstairs" target="" pan="-153.2" skinid="JD east downstairs" url="{node3}" id="JD east downstairs" tilt="-16.5602"/>
     </hotspots>
     <media/>
     <input tile0url="images/02_ jd_east_up_o_0.jpg" prev5url="images/02_ jd_east_up_o_preview_5.jpg" prev4url="images/02_ jd_east_up_o_preview_4.jpg" prev3url="images/02_ jd_east_up_o_preview_3.jpg" prev2url="images/02_ jd_east_up_o_preview_2.jpg" prev1url="images/02_ jd_east_up_o_preview_1.jpg" prev0url="images/02_ jd_east_up_o_preview_0.jpg" tile5url="images/02_ jd_east_up_o_5.jpg" tilesize="512" tile4url="images/02_ jd_east_up_o_4.jpg" tile3url="images/02_ jd_east_up_o_3.jpg" tilescale="1.01953125" tile2url="images/02_ jd_east_up_o_2.jpg" tile1url="images/02_ jd_east_up_o_1.jpg">
@@ -50,7 +50,7 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="" target="" pan="162.302" skinid="" url="{node2}" id="To JD east Upstairs" tilt="32.2624"/>
+      <hotspot title="To JD east Upstairs" target="" pan="161.592" skinid="To JD east Upstairs" url="{node2}" id="To JD east Upstairs" tilt="32.4985"/>
     </hotspots>
     <media/>
     <input tile0url="images/03_ jd_east_down_o_0.jpg" prev5url="images/03_ jd_east_down_o_preview_5.jpg" prev4url="images/03_ jd_east_down_o_preview_4.jpg" prev3url="images/03_ jd_east_down_o_preview_3.jpg" prev2url="images/03_ jd_east_down_o_preview_2.jpg" prev1url="images/03_ jd_east_down_o_preview_1.jpg" prev0url="images/03_ jd_east_down_o_preview_0.jpg" tile5url="images/03_ jd_east_down_o_5.jpg" tilesize="512" tile4url="images/03_ jd_east_down_o_4.jpg" tile3url="images/03_ jd_east_down_o_3.jpg" tilescale="1.01953125" tile2url="images/03_ jd_east_down_o_2.jpg" tile1url="images/03_ jd_east_down_o_1.jpg">
@@ -68,8 +68,8 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="" target="" pan="177.487" skinid="" url="{node5}" id="To lecture room" tilt="14.2751"/>
-      <hotspot title="" target="" pan="77.6224" skinid="" url="{node2}" id="To JD east upstairs" tilt="4.30599"/>
+      <hotspot title="To lecture room" target="" pan="177.487" skinid="To lecture room" url="{node5}" id="To lecture room" tilt="14.2751"/>
+      <hotspot title="To JD east upstairs" target="" pan="77.6224" skinid="To JD east upstairs" url="{node2}" id="To JD east upstairs" tilt="4.30599"/>
     </hotspots>
     <media/>
     <input tile0url="images/04_ hall_lecture_room_o_0.jpg" prev5url="images/04_ hall_lecture_room_o_preview_5.jpg" prev4url="images/04_ hall_lecture_room_o_preview_4.jpg" prev3url="images/04_ hall_lecture_room_o_preview_3.jpg" prev2url="images/04_ hall_lecture_room_o_preview_2.jpg" prev1url="images/04_ hall_lecture_room_o_preview_1.jpg" prev0url="images/04_ hall_lecture_room_o_preview_0.jpg" tile5url="images/04_ hall_lecture_room_o_5.jpg" tilesize="512" tile4url="images/04_ hall_lecture_room_o_4.jpg" tile3url="images/04_ hall_lecture_room_o_3.jpg" tilescale="1.01953125" tile2url="images/04_ hall_lecture_room_o_2.jpg" tile1url="images/04_ hall_lecture_room_o_1.jpg">
@@ -87,7 +87,7 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="" target="" pan="43.9828" skinid="" url="{node4}" id="To hallway" tilt="0.044636"/>
+      <hotspot title="To hallway" target="" pan="43.9828" skinid="To hallway" url="{node4}" id="To hallway" tilt="0.044636"/>
     </hotspots>
     <media/>
     <input tile0url="images/05_ lecture_room_o_0.jpg" prev5url="images/05_ lecture_room_o_preview_5.jpg" prev4url="images/05_ lecture_room_o_preview_4.jpg" prev3url="images/05_ lecture_room_o_preview_3.jpg" prev2url="images/05_ lecture_room_o_preview_2.jpg" prev1url="images/05_ lecture_room_o_preview_1.jpg" prev0url="images/05_ lecture_room_o_preview_0.jpg" tile5url="images/05_ lecture_room_o_5.jpg" tilesize="512" tile4url="images/05_ lecture_room_o_4.jpg" tile3url="images/05_ lecture_room_o_3.jpg" tilescale="1.01953125" tile2url="images/05_ lecture_room_o_2.jpg" tile1url="images/05_ lecture_room_o_1.jpg">
@@ -105,9 +105,9 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="" target="" pan="-96.6828" skinid="" url="{node7}" id="Elevator to 2nd floor" tilt="16.8815"/>
-      <hotspot title="" target="" pan="-34.1278" skinid="" url="{node11}" id="Hall to lecture theatre" tilt="7.05094"/>
-      <hotspot title="" target="" pan="146.533" skinid="" url="{node1}" id="Entrance upstairs" tilt="21.7788"/>
+      <hotspot title="Elevator to 2nd floor" target="" pan="-96.4366" skinid="Elevator to 2nd floor" url="{node7}" id="Elevator to 2nd floor" tilt="16.0693"/>
+      <hotspot title="Hall to lecture theatre" target="" pan="-34.1278" skinid="Hall to lecture theatre" url="{node11}" id="Hall to lecture theatre" tilt="7.05094"/>
+      <hotspot title="Entrance upstairs" target="" pan="146.533" skinid="Entrance upstairs" url="{node1}" id="Entrance upstairs" tilt="21.7788"/>
     </hotspots>
     <media/>
     <input tile0url="images/06_ entrancedownstairs_o_0.jpg" prev5url="images/06_ entrancedownstairs_o_preview_5.jpg" prev4url="images/06_ entrancedownstairs_o_preview_4.jpg" prev3url="images/06_ entrancedownstairs_o_preview_3.jpg" prev2url="images/06_ entrancedownstairs_o_preview_2.jpg" prev1url="images/06_ entrancedownstairs_o_preview_1.jpg" prev0url="images/06_ entrancedownstairs_o_preview_0.jpg" tile5url="images/06_ entrancedownstairs_o_5.jpg" tilesize="512" tile4url="images/06_ entrancedownstairs_o_4.jpg" tile3url="images/06_ entrancedownstairs_o_3.jpg" tilescale="1.01953125" tile2url="images/06_ entrancedownstairs_o_2.jpg" tile1url="images/06_ entrancedownstairs_o_1.jpg">
@@ -125,8 +125,8 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="" target="" pan="1.60359" skinid="" url="{node8}" id="To computer rooms" tilt="3.63406"/>
-      <hotspot title="" target="" pan="125.612" skinid="" url="{node6}" id="Elevator to ground floor" tilt="17.4421"/>
+      <hotspot title="To computer rooms" target="" pan="1.60359" skinid="To computer rooms" url="{node8}" id="To computer rooms" tilt="3.63406"/>
+      <hotspot title="Elevator to ground floor" target="" pan="122.942" skinid="Elevator to ground floor" url="{node6}" id="Elevator to ground floor" tilt="14.8099"/>
     </hotspots>
     <media/>
     <input tile0url="images/07_ jdc2 hall1_o_0.jpg" prev5url="images/07_ jdc2 hall1_o_preview_5.jpg" prev4url="images/07_ jdc2 hall1_o_preview_4.jpg" prev3url="images/07_ jdc2 hall1_o_preview_3.jpg" prev2url="images/07_ jdc2 hall1_o_preview_2.jpg" prev1url="images/07_ jdc2 hall1_o_preview_1.jpg" prev0url="images/07_ jdc2 hall1_o_preview_0.jpg" tile5url="images/07_ jdc2 hall1_o_5.jpg" tilesize="512" tile4url="images/07_ jdc2 hall1_o_4.jpg" tile3url="images/07_ jdc2 hall1_o_3.jpg" tilescale="1.01953125" tile2url="images/07_ jdc2 hall1_o_2.jpg" tile1url="images/07_ jdc2 hall1_o_1.jpg">
@@ -144,9 +144,9 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="" target="" pan="12.8183" skinid="" url="{node10}" id="To Mac Room" tilt="6.21422"/>
-      <hotspot title="" target="" pan="154.267" skinid="" url="{node9}" id="To PC room" tilt="12.3181"/>
-      <hotspot title="" target="" pan="173.738" skinid="" url="{node7}" id="To Elevator" tilt="6.95345"/>
+      <hotspot title="To Mac Room" target="" pan="12.8183" skinid="To Mac Room" url="{node10}" id="To Mac Room" tilt="6.21422"/>
+      <hotspot title="To PC room" target="" pan="154.267" skinid="To PC room" url="{node9}" id="To PC room" tilt="12.3181"/>
+      <hotspot title="To Elevator" target="" pan="173.738" skinid="To Elevator" url="{node7}" id="To Elevator" tilt="6.95345"/>
     </hotspots>
     <media/>
     <input tile0url="images/08_ jdc2 hall2_o_0.jpg" prev5url="images/08_ jdc2 hall2_o_preview_5.jpg" prev4url="images/08_ jdc2 hall2_o_preview_4.jpg" prev3url="images/08_ jdc2 hall2_o_preview_3.jpg" prev2url="images/08_ jdc2 hall2_o_preview_2.jpg" prev1url="images/08_ jdc2 hall2_o_preview_1.jpg" prev0url="images/08_ jdc2 hall2_o_preview_0.jpg" tile5url="images/08_ jdc2 hall2_o_5.jpg" tilesize="512" tile4url="images/08_ jdc2 hall2_o_4.jpg" tile3url="images/08_ jdc2 hall2_o_3.jpg" tilescale="1.01953125" tile2url="images/08_ jdc2 hall2_o_2.jpg" tile1url="images/08_ jdc2 hall2_o_1.jpg">
@@ -164,7 +164,7 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="" target="" pan="-161.66" skinid="" url="{node8}" id="To hallway" tilt="2.11551"/>
+      <hotspot title="To hallway" target="" pan="-161.66" skinid="To hallway" url="{node8}" id="To hallway" tilt="2.11551"/>
     </hotspots>
     <media/>
     <input tile0url="images/09_ jdc2_04_o_0.jpg" prev5url="images/09_ jdc2_04_o_preview_5.jpg" prev4url="images/09_ jdc2_04_o_preview_4.jpg" prev3url="images/09_ jdc2_04_o_preview_3.jpg" prev2url="images/09_ jdc2_04_o_preview_2.jpg" prev1url="images/09_ jdc2_04_o_preview_1.jpg" prev0url="images/09_ jdc2_04_o_preview_0.jpg" tile5url="images/09_ jdc2_04_o_5.jpg" tilesize="512" tile4url="images/09_ jdc2_04_o_4.jpg" tile3url="images/09_ jdc2_04_o_3.jpg" tilescale="1.01953125" tile2url="images/09_ jdc2_04_o_2.jpg" tile1url="images/09_ jdc2_04_o_1.jpg">
@@ -182,7 +182,7 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="" target="" pan="-156.265" skinid="" url="{node8}" id="To hallway" tilt="-0.215664"/>
+      <hotspot title="To hallway" target="" pan="-156.265" skinid="To hallway" url="{node8}" id="To hallway" tilt="-0.215664"/>
     </hotspots>
     <media/>
     <input tile0url="images/10_ jdc2_05_o_0.jpg" prev5url="images/10_ jdc2_05_o_preview_5.jpg" prev4url="images/10_ jdc2_05_o_preview_4.jpg" prev3url="images/10_ jdc2_05_o_preview_3.jpg" prev2url="images/10_ jdc2_05_o_preview_2.jpg" prev1url="images/10_ jdc2_05_o_preview_1.jpg" prev0url="images/10_ jdc2_05_o_preview_0.jpg" tile5url="images/10_ jdc2_05_o_5.jpg" tilesize="512" tile4url="images/10_ jdc2_05_o_4.jpg" tile3url="images/10_ jdc2_05_o_3.jpg" tilescale="1.01953125" tile2url="images/10_ jdc2_05_o_2.jpg" tile1url="images/10_ jdc2_05_o_1.jpg">
@@ -200,8 +200,8 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="" target="" pan="78.8982" skinid="" url="{node6}" id="To Entrance" tilt="0.942199"/>
-      <hotspot title="" target="" pan="6.04032" skinid="" url="{node12}" id="To Lecture Theatre" tilt="22.839"/>
+      <hotspot title="To Entrance" target="" pan="78.8982" skinid="To Entrance" url="{node6}" id="To Entrance" tilt="0.942199"/>
+      <hotspot title="To Lecture Theatre" target="" pan="6.04032" skinid="To Lecture Theatre" url="{node12}" id="To Lecture Theatre" tilt="22.839"/>
     </hotspots>
     <media/>
     <input tile0url="images/11_ jdc_lectureTheatreHall_o_0.jpg" prev5url="images/11_ jdc_lectureTheatreHall_o_preview_5.jpg" prev4url="images/11_ jdc_lectureTheatreHall_o_preview_4.jpg" prev3url="images/11_ jdc_lectureTheatreHall_o_preview_3.jpg" prev2url="images/11_ jdc_lectureTheatreHall_o_preview_2.jpg" prev1url="images/11_ jdc_lectureTheatreHall_o_preview_1.jpg" prev0url="images/11_ jdc_lectureTheatreHall_o_preview_0.jpg" tile5url="images/11_ jdc_lectureTheatreHall_o_5.jpg" tilesize="512" tile4url="images/11_ jdc_lectureTheatreHall_o_4.jpg" tile3url="images/11_ jdc_lectureTheatreHall_o_3.jpg" tilescale="1.01953125" tile2url="images/11_ jdc_lectureTheatreHall_o_2.jpg" tile1url="images/11_ jdc_lectureTheatreHall_o_1.jpg">
@@ -219,7 +219,7 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="" target="" pan="118.639" skinid="" url="{node11}" id="To Hallway" tilt="8.672840000000001"/>
+      <hotspot title="To Hallway" target="" pan="118.639" skinid="To Hallway" url="{node11}" id="To Hallway" tilt="8.672840000000001"/>
     </hotspots>
     <media/>
     <input tile0url="images/12_ lecture_theatre_o_0.jpg" prev5url="images/12_ lecture_theatre_o_preview_5.jpg" prev4url="images/12_ lecture_theatre_o_preview_4.jpg" prev3url="images/12_ lecture_theatre_o_preview_3.jpg" prev2url="images/12_ lecture_theatre_o_preview_2.jpg" prev1url="images/12_ lecture_theatre_o_preview_1.jpg" prev0url="images/12_ lecture_theatre_o_preview_0.jpg" tile5url="images/12_ lecture_theatre_o_5.jpg" tilesize="512" tile4url="images/12_ lecture_theatre_o_4.jpg" tile3url="images/12_ lecture_theatre_o_3.jpg" tilescale="1.01953125" tile2url="images/12_ lecture_theatre_o_2.jpg" tile1url="images/12_ lecture_theatre_o_1.jpg">
